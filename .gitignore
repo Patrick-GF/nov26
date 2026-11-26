@@ -1,0 +1,15 @@
+# No se subirá a github
+.streamlit/secrets.toml
+.streamlit/secrets*.bak
+.env
+*.env
+credenciales_iniciales.csv
+sql/03_usuarios.sql
+
+# Entorno y caché
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
